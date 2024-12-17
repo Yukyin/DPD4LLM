@@ -1,2 +1,2 @@
 # DPD4LLM
-Differential Penalty Decoding (DPD) for LLMs' hallucination reducing
+Attributive Reasoning for Hallucination Diagnosis of Large Language Models
